@@ -11,4 +11,5 @@ if (empty($var)) {
 if (isset($var)) {
     echo '$var is set even though it is empty';
 }
+echo 'error';
 ?>
